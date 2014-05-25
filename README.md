@@ -1,4 +1,4 @@
-Mailjet for Magento
+[API v1] Mailjet for Magento
 =====================
 
 Mailjet's Magento plugin provides complete control of Email settings with Magento.
